@@ -111,6 +111,9 @@
                         <mxPoint x="440" y="270" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
+                <mxCell id="97" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.wordpress_2;fillColor=#00A7DA;strokeColor=none" vertex="1" parent="1">
+                    <mxGeometry x="291.2" y="251.2" width="58.8" height="58.8" as="geometry"/>
+                </mxCell>
             </root>
         </mxGraphModel>
     </diagram>
